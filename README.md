@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there 👋 😁
 
-- 🔭 Working on my skills 💪.
+- 🔭 Working on my skills 💪
