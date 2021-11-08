@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my software developement skills.
+- 🔭 Working on my skills 💪.
