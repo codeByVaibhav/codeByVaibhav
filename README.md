@@ -5,4 +5,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/kumar-vaibhav-8b90011b0/)
 
-[Old Portfolio](https://codebyvaibhav.github.io/)
+[Portfolio (Old)](https://codebyvaibhav.github.io/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeByVaibhav&show_icons=true&locale=en&layout=compact" alt="codeByVaibhav" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeByVaibhav&show_icons=true&locale=en" alt="codeByVaibhav" />
