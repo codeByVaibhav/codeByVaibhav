@@ -1,4 +1,4 @@
-### Hi there 👋 😁
+### Hi there 👋
 
 - 👨‍💻 Programmer | Full-stack Developer | HTML, CSS, Javascript | Node.js | React | Next.js | Python3 | Flask
 - 👷‍♂️ Working on my skills
